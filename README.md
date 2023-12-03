@@ -1,8 +1,8 @@
-Author Dongmin Lee
+#Basic OpenCV start up setting, starting with opening an Webcam.
+// Author Dongmin Lee
+##Demo Purpose for tutorium.
 
-Basic OpenCV start up setting, starting with opening an Webcam.
-Demo Purpose for tutorium.
-
+'''
 1. Install numpy and openCV
    pip install numpy opencv-python
 
@@ -19,4 +19,4 @@ Demo Purpose for tutorium.
    number key 2: base on your Canny Filter try to find one straight line in your photo
                  This is HoughLine.
 
-		
+'''		
