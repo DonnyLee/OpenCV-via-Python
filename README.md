@@ -1,6 +1,5 @@
-#Basic OpenCV start up setting, starting with opening an Webcam.
-// Author Dongmin Lee
-##Demo Purpose for tutorium.
+###Basic OpenCV start up setting, starting with opening an Webcam.
+###Demo Purpose for tutorium.
 
 ```
 1. Install numpy and openCV
@@ -20,3 +19,5 @@
                  This is HoughLine.
 
 ```		
+
+***Author Dongmin Lee***
