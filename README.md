@@ -1,4 +1,5 @@
 Author Dongmin Lee
+
 Basic OpenCV start up setting, starting with opening an Webcam.
 Demo Purpose for tutorium.
 
